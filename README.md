@@ -242,13 +242,13 @@ export class AppModule { }
 
 ### without output:
 
-![myproject](k1.png)
+![myproject](s1.png)
 
 ### with output:
 
 
 
-![myproject](k2.png)
+![myproject](s2.png)
 
 
 
